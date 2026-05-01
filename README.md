@@ -22,7 +22,7 @@ graph TB
 ## Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/zeotap-ims
+git clone https://github.com/akshatxq/zeotap-ims
 cd zeotap-ims
 docker-compose up -d
 ```

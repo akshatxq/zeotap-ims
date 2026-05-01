@@ -79,6 +79,6 @@ This document records the AI assistance used during development, as required by 
 
 This project was completed as an assignment for Zeotap's Infrastructure/SRE Intern position. AI assistance was used to accelerate development while maintaining understanding of all implemented concepts. The candidate reviewed and understood all code before integration.
 
-**Repository:** https://github.com/YOUR_USERNAME/zeotap-ims
+**Repository:** https://github.com/akshatxq/zeotap-ims
 **Candidate:** Akshat Singh
 **Date:** May 2026
